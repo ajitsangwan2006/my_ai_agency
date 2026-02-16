@@ -1,0 +1,1 @@
+A web app for a makeup artist to show her work and allow appointments booking, also provide an admin login to manage the type services and manage calender for dates and times unavailability for customers.
